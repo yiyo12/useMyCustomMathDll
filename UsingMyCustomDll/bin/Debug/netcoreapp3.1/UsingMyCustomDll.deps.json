@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "UsingMyCustomDll/1.0.0": {
+        "dependencies": {
+          "MyCustomArithmeticLibrary": "1.0.0.0"
+        },
+        "runtime": {
+          "UsingMyCustomDll.dll": {}
+        }
+      },
+      "MyCustomArithmeticLibrary/1.0.0.0": {
+        "runtime": {
+          "MyCustomArithmeticLibrary.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UsingMyCustomDll/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyCustomArithmeticLibrary/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\UsingMyCustomDll\UsingMyCustomDll\bin\Debug\netcoreapp3.1\UsingMyCustomDll.exe
+C:\Users\user\source\repos\UsingMyCustomDll\UsingMyCustomDll\bin\Debug\netcoreapp3.1\UsingMyCustomDll.deps.json
+C:\Users\user\source\repos\UsingMyCustomDll\UsingMyCustomDll\bin\Debug\netcoreapp3.1\UsingMyCustomDll.runtimeconfig.json
+C:\Users\user\source\repos\UsingMyCustomDll\UsingMyCustomDll\bin\Debug\netcoreapp3.1\UsingMyCustomDll.runtimeconfig.dev.json
+C:\Users\user\source\repos\UsingMyCustomDll\UsingMyCustomDll\bin\Debug\netcoreapp3.1\UsingMyCustomDll.dll
+C:\Users\user\source\repos\UsingMyCustomDll\UsingMyCustomDll\bin\Debug\netcoreapp3.1\UsingMyCustomDll.pdb
+C:\Users\user\source\repos\UsingMyCustomDll\UsingMyCustomDll\bin\Debug\netcoreapp3.1\MyCustomArithmeticLibrary.dll
+C:\Users\user\source\repos\UsingMyCustomDll\UsingMyCustomDll\bin\Debug\netcoreapp3.1\MyCustomArithmeticLibrary.pdb
+C:\Users\user\source\repos\UsingMyCustomDll\UsingMyCustomDll\obj\Debug\netcoreapp3.1\UsingMyCustomDll.csprojAssemblyReference.cache
+C:\Users\user\source\repos\UsingMyCustomDll\UsingMyCustomDll\obj\Debug\netcoreapp3.1\UsingMyCustomDll.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\UsingMyCustomDll\UsingMyCustomDll\obj\Debug\netcoreapp3.1\UsingMyCustomDll.AssemblyInfo.cs
+C:\Users\user\source\repos\UsingMyCustomDll\UsingMyCustomDll\obj\Debug\netcoreapp3.1\UsingMyCustomDll.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\UsingMyCustomDll\UsingMyCustomDll\obj\Debug\netcoreapp3.1\UsingMyCustomDll.csproj.CopyComplete
+C:\Users\user\source\repos\UsingMyCustomDll\UsingMyCustomDll\obj\Debug\netcoreapp3.1\UsingMyCustomDll.dll
+C:\Users\user\source\repos\UsingMyCustomDll\UsingMyCustomDll\obj\Debug\netcoreapp3.1\UsingMyCustomDll.pdb
+C:\Users\user\source\repos\UsingMyCustomDll\UsingMyCustomDll\obj\Debug\netcoreapp3.1\UsingMyCustomDll.genruntimeconfig.cache
